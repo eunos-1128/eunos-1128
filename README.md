@@ -1,9 +1,10 @@
-### UENO, M.
+# UENO, M.
 
 [![Github](https://img.shields.io/github/followers/eunos-1128?label=Follow&style=social)](https://github.com/eunos-1128)
 
 I'm research engineer studying bioinformatics/cheminformatics.
 
+* Drug discovery using deep learning 
 * Also interested in medicinal chemistry(organic systhesis)
 * Bioconda & conda-forge contributer
 * Linux geek
