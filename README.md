@@ -14,7 +14,8 @@ I'm research engineer studying bioinformatics/cheminformatics.
 Links to other pages(Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
 
 ### Skills
-![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,django,flask,sklearn,selenium,react,vue,sass,linux,ubuntu,debian,arch,docker,aws,git,github,vscode)
+![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,django,flask,sklearn,selenium,react,vue,sass,linux,ubuntu,debian,arch,mongodb,postgres,mysql,docker,aws,git,github,vscode)
+ngodb
 
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
