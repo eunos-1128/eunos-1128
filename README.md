@@ -15,7 +15,6 @@ Links to other pages(Linkedin, X, etc...) are listed on my [Website](https://eun
 
 ### Skills
 ![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,django,flask,sklearn,selenium,react,vue,sass,linux,ubuntu,debian,arch,mongodb,postgres,mysql,docker,aws,git,github,vscode)
-ngodb
 
 ### Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
