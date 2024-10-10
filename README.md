@@ -1,8 +1,18 @@
 # UENO, M.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eunos-1128&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+[![Github](https://img.shields.io/github/followers/eunos-1128?label=Follow&style=social)](https://github.com/eunos-1128)
 
-<img src="https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+## Bio
 
-<img src="https://github-profile-trophy.vercel.app/?username=eunos-1128&theme=juicyfresh&no-bg=true" />
+I'm research engineer studying bioinformatics/cheminformatics.
 
+* Also interested in medicinal chemistry
+* Bioconda & conda-forge contributer
+* Linux geek
+
+## Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
+
+<!-- [![Holopin board](https://holopin.me/eunos-1128)](https://holopin.io/@eunos-1128) -->
