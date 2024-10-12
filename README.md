@@ -6,8 +6,8 @@
 I'm research engineer studying bioinformatics/cheminformatics.
 
 * Drug discovery using deep learning
-* Web development(Python, TypeScript, JavaScript and related tools) 
-* Also interested in medicinal chemistry(organic systhesis)
+* Web development (Python, TypeScript, JavaScript and related tools) 
+* Also interested in medicinal chemistry (organic systhesis)
 * Bioconda & conda-forge contributer
 * Linux geek
 
