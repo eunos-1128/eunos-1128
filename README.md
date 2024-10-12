@@ -6,7 +6,7 @@
 
 I'm research engineer studying bioinformatics/cheminformatics.
 
-* Also interested in medicinal chemistry
+* Also interested in medicinal chemistry(organic systhesis)
 * Bioconda & conda-forge contributer
 * Linux geek
 
