@@ -12,6 +12,7 @@ I'm research engineer studying bioinformatics/cheminformatics.
 
 ## Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
 
 <!-- [![Holopin board](https://holopin.me/eunos-1128)](https://holopin.io/@eunos-1128) -->
