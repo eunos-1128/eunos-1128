@@ -1,8 +1,8 @@
 # UENO, M.
 
 [![Github](https://img.shields.io/github/followers/eunos-1128?label=Follow&style=social)](https://github.com/eunos-1128)
-
-<a class="github-button" href="https://github.com/sponsors/eunos-1128" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-heart" data-size="large" aria-label="Sponsor @eunos-1128 on GitHub">Sponsor</a>
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=181717&&style=flat-square&labelColor=white
+)](https://github.com/eunos-1128)
 
 ## Bio
 I'm research engineer studying bioinformatics/cheminformatics.
