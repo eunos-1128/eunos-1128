@@ -16,7 +16,7 @@ Other things are:
 * Interested in drug discovery using SBDD and deep learning
 * Also interested in medicinal chemistry (organic systhesis)
 * Like web development (Python, TypeScript, JavaScript and related tools)
-* Bioconda & conda-forge contributer
+* Bioconda & conda-forge packaging
 * Flatpak packaging
 * Linux geek
 
