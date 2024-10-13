@@ -13,7 +13,7 @@ I'm research engineer studying bioinformatics/cheminformatics.
 
 * Interested in drug discovery using SBDD and deep learning
 * Also interested in medicinal chemistry (organic systhesis)
-* Like Web development (Python, TypeScript, JavaScript and related tools)
+* Like web development (Python, TypeScript, JavaScript and related tools)
 * Bioconda & conda-forge contributer
 * Linux geek
 
