@@ -20,7 +20,7 @@ Other things are:
 * Flatpak packaging
 * Linux geek
 
-Links to other pages(Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
+Links to other pages (Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
 
 ## Skills
 
