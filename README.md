@@ -22,7 +22,7 @@ Other things are:
 
 Links to other pages (Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
 
-Please DM me on X if you want to contact me (too many email inbox spams).
+Please DM me on [X](https://x.com/eunos1128) if you want to contact me (too many email inbox spams).
 
 ## Skills
 
