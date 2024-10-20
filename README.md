@@ -26,7 +26,7 @@ Please DM me on [X](https://x.com/eunos1128) if you want to contact me (too many
 
 ## Skills
 
-![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
+![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
 
 ## Stats
 
