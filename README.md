@@ -22,6 +22,8 @@ Other things are:
 
 Links to other pages (Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
 
+Please DM me on X if you want to contact me (too many email inbox spams).
+
 ## Skills
 
 ![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
