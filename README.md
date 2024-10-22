@@ -11,8 +11,6 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 
 I'm research engineer studying bioinformatics/cheminformatics.
 
-Other things are:
-
 - 💊 Interested in drug discovery using SBDD/FBDD and deep learning
 - ⚗️ Also interested in medicinal chemistry (organic systhesis)
 - 🌐 Like web development (Python, TypeScript, JavaScript and related tools)
