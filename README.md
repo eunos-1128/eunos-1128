@@ -13,12 +13,12 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 
 Other things are:
 
-💊 Interested in drug discovery using SBDD/FBDD and deep learning
-⚗️ Also interested in medicinal chemistry (organic systhesis)
-🌐 Like web development (Python, TypeScript, JavaScript and related tools)
-🐍 Bioconda & conda-forge packaging
-🔲 Flatpak packaging
-🐧 Linux geek
+- 💊 Interested in drug discovery using SBDD/FBDD and deep learning
+- ⚗️ Also interested in medicinal chemistry (organic systhesis)
+- 🌐 Like web development (Python, TypeScript, JavaScript and related tools)
+- 🐍 Bioconda & conda-forge packaging
+- 🔲 Flatpak packaging
+- 🐧 Linux geek
 
 🔗 [Links](https://eunos-1128.github.io/) to other pages (Linkedin, X, etc...).
 
