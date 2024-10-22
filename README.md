@@ -9,18 +9,18 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 
 ## Profile
 
-I'm research engineer studying bioinformatics/cheminformatics.
+🧬 I'm research engineer studying bioinformatics/cheminformatics.
 
 Other things are:
 
-* Interested in drug discovery using SBDD/FBDD and deep learning
-* Also interested in medicinal chemistry (organic systhesis)
-* Like web development (Python, TypeScript, JavaScript and related tools)
-* Bioconda & conda-forge packaging
-* Flatpak packaging
-* Linux geek
+💊 Interested in drug discovery using SBDD/FBDD and deep learning
+⚗️ Also interested in medicinal chemistry (organic systhesis)
+🌐 Like web development (Python, TypeScript, JavaScript and related tools)
+🐍 Bioconda & conda-forge packaging
+🔲 Flatpak packaging
+🐧 Linux geek
 
-Links to other pages (Linkedin, X, etc...) are listed on my [Website](https://eunos-1128.github.io/).
+🔗 [Links](https://eunos-1128.github.io/) to other pages (Linkedin, X, etc...).
 
 Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
 
