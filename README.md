@@ -7,9 +7,9 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=181717&&style=flat-square&labelColor=white
 )](https://github.com/sponsors/eunos-1128)
 
-## Profile
+## 🧬
 
-🧬 I'm research engineer studying bioinformatics/cheminformatics.
+I'm research engineer studying bioinformatics/cheminformatics.
 
 Other things are:
 
@@ -24,11 +24,11 @@ Other things are:
 
 Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
 
-## Skills
+## 🛠️
 
 ![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
 
-## Stats
+## 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
