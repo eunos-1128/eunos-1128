@@ -26,9 +26,9 @@ Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me
 
 ![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
 
-<details>
+## <details>
 
-<summary>## 📊 Stats</summary>
+<summary> 📊 Stats</summary>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
