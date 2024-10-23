@@ -28,6 +28,6 @@ Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
 
