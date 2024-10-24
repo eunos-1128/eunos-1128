@@ -9,9 +9,6 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 
 I'm research engineer studying bioinformatics/cheminformatics.
 
-Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
-
-
 <details>
 <summary>🧬 Bio</summary>
 
@@ -25,6 +22,8 @@ Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me
 🔗 [Links](https://eunos-1128.github.io/) to other pages (Linkedin, X, etc...).
 
 </details>
+
+Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
 
 ## 🛠️ Skills
 ![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
