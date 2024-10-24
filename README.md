@@ -8,7 +8,9 @@ I am looking for a Github sponsor to continue my study. If you are interested in
 )](https://github.com/sponsors/eunos-1128)
 
 I'm research engineer studying bioinformatics/cheminformatics.
+
 Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
+
 
 <details>
 <summary>🧬 Bio</summary>
