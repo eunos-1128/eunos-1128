@@ -34,5 +34,8 @@ I'm research engineer studying bioinformatics/cheminformatics.
 Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
 
 ## 🛠️ Skills
-![skills](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
 
+<div style="display: grid; grid-template-columns: 2fr 8fr; margin-bottom: 20px;">
+  <div style="padding: 10px; box-sizing: border-box; background-color: #f0f0f0;">[CV](https://eunos-1128.github.io/CV/lab/index.html)</div>
+  <div style="padding: 10px; box-sizing: border-box; background-color: #e0e0e0;">![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)</div>
+</div>
