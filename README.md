@@ -35,5 +35,6 @@ Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me
 
 ## 🛠️ Skills
 
-[CV](https://eunos-1128.github.io/CV/lab/index.html)
-![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
+### [CV](https://eunos-1128.github.io/CV/lab/index.html)
+
+### ![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,r,fortran,cpp,bash,ts,js,html,css,anaconda,cmake,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
