@@ -1,4 +1,4 @@
-#  👨‍💻 Hi, there
+# 👨‍ Hi, there
 
 [![Github](https://img.shields.io/github/followers/eunos-1128?label=Follow&style=social)](https://github.com/eunos-1128)
 
