@@ -12,8 +12,9 @@ I'm research engineer studying bioinformatics/cheminformatics.
 <details>
 <summary>🧬 Bio</summary>
 
-- 💊 Interested in drug discovery using SBDD/FBDD and deep learning
-- ⚗️ Also interested in medicinal chemistry (organic systhesis)
+- 💊 Interested in drug discovery using SBDD/FBDD and protein/ligand docking.
+- 🤖 Machine learning and its application to medicinal chemistry 
+- ⚗️ small molecule organic chemistry
 - 🌐 Like web development (Python, TypeScript, JavaScript and related tools)
 - 🐍 Bioconda & conda-forge packaging
 - 🔲 Flatpak packaging
