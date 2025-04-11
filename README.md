@@ -32,7 +32,7 @@ I'm research engineer studying bioinformatics/cheminformatics.
 
 </details>
 
-Please DM me on [X](https://x.com/eunos1128) if you want to get in touch with me (too many email spams).
+Please DM me on [BlueSky](https://bsky.app/profile/eunos-1128.bsky.social) if you want to get in touch with me (too many email spams).
 
 ## 🛠️ Skills
 
