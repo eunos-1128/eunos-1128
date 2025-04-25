@@ -1,9 +1,6 @@
 # Hi, there
 
 [![Github](https://img.shields.io/github/followers/eunos-1128?label=Follow&style=social)](https://github.com/eunos-1128)
-
-I am looking for Github sponsors to continue my studies. If you are interested in helping me, please click the button below to complete the process.
-
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=181717&&style=flat-square&labelColor=white
 )](https://github.com/sponsors/eunos-1128)
 
