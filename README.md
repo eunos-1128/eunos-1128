@@ -35,5 +35,5 @@ Please DM me on [X](https://x.com/eunos1128) or [BlueSky](https://bsky.app/profi
 
 ### 📑 [CV](https://github.com/eunos-1128/CV/blob/main/README.md)
 
-### ![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,julia,bash,ts,js,html,css,anaconda,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
+### ![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,bash,julia,ruby,ts,js,html,css,anaconda,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
 
