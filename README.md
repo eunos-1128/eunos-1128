@@ -11,7 +11,7 @@ I study bioinformatics/cheminformatics.
 
 - 💊 Interested in drug discovery using SBDD/FBDD and protein/ligand docking.
 - 🤖 Machine learning and its application to medicinal chemistry 
-- ⚗️  Small molecule organic chemistry
+- ⚗️ Small molecule organic chemistry
 - 🌐 Like web development (Python, TypeScript, JavaScript and related tools)
 - 🐍 Bioconda & conda-forge packaging
 - 🔲 Flatpak packaging
@@ -36,4 +36,3 @@ Please DM me on [BlueSky](https://bsky.app/profile/eunos-1128.bsky.social) if yo
 ### 📑 [CV](https://github.com/eunos-1128/CV/blob/main/README.md)
 
 ### ![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,bash,julia,ruby,ts,js,html,css,anaconda,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
-
