@@ -29,8 +29,6 @@ I study bioinformatics/cheminformatics.
 
 </details>
 
-Please DM me on [BlueSky](https://bsky.app/profile/eunos-1128.bsky.social) if you want to get in touch with me (too many email spams).
-
 ## 🛠️ Skills
 
 ### 📑 [CV](https://github.com/eunos-1128/CV/blob/main/README.md)
