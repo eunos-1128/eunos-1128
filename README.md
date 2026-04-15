@@ -17,7 +17,7 @@ I study bioinformatics/cheminformatics.
 - 🔲 Flatpak packaging
 - 🐧 Linux geek
 
-🔗 [Links](https://eunos-1128.github.io/) to other pages (Linkedin, X, etc...).
+🔗 [Links](https://eunos-1128.github.io/) to other pages.
 
 </details>
 
