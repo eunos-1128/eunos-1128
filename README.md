@@ -24,7 +24,6 @@ I study bioinformatics/cheminformatics.
 <details>
 <summary>📊 Stats</summary>
 
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
 
@@ -35,3 +34,4 @@ I study bioinformatics/cheminformatics.
 ### 📑 [CV](https://github.com/eunos-1128/CV/blob/main/README.md)
 
 ### ![Skill icons](https://skillicons.dev/icons?theme=light&perline=8&i=py,bash,julia,ruby,ts,js,html,css,anaconda,jquery,nodejs,yarn,npm,pnpm,django,flask,sklearn,selenium,react,vue,sass,linux,mongodb,postgres,mysql,docker,aws,git,vscode,)
+
