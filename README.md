@@ -21,10 +21,13 @@ I study bioinformatics/cheminformatics.
 
 </details>
 
+<details>
 <summary>📊 Stats</summary>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=eunos-1128&show_icons=true&count_private=true&line_height=40)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunos-1128&hide=html)
+
+</details>
 
 ## 🛠️ Skills
 
